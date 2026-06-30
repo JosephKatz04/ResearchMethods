@@ -17,6 +17,7 @@ When beginning a new cell line to grow for experiments, they need to be brought 
 - Complete work in the BSC.
 - Spray down all materials brought into the BSC with 70% Ethanol.
 - Try not to touch the sides of the flask opening with pipette tips.
+- Do not touch the rims of the flasks or tubes to work with.
 
 ## Materials
 
@@ -25,17 +26,20 @@ When beginning a new cell line to grow for experiments, they need to be brought 
 - Culture vessel (Flask)
 - Centrifuge tube
 - 37°C Water Bath
+- Styrofoam tub
 
 ## Procedure
 
-1. Prepare the complete growth media using the [Caco-2 media recipe]({{ "/wet-lab/caco2-media-recipe/" | relative_url }}) and place it in the 37° water bath to pre-heat.
-2. Place the cryovial with the frozen cells into the 37° water bath for less than 1 minute, gently swirling until there is a small amount of ice left in the vial.
-3. Move to the BSC, wiping down the vial and the DMEM with 70% Ethanol.
-4. Transfer the thawed cells **Dropwise** into the centrifuge tube containing prewarmed growth media. Use ~10 mL total of liquid, so ~9mL of growth medium for 1mL of cells.
-5. Centrifuge at 200xg for 5-10 minutes. 
-6. Check the clarity of the supernatant and the visibility of the pellet. Decant the supernatant without disturbing the cell pellet.
-7. Put ~10mL of growth medium into the cell flask. Resuspend the cell pellet in ~3mL of growth medium and transfer into the culturing flask.
-8. Transfer the suspended cells into the cell flask and mix slightly to spread cells.
+1. Prepare the complete growth media using the [Caco-2 media recipe]({{ "/wet-lab/caco2-media-recipe/" | relative_url }}) and place an alliquot in the 37° water bath to pre-heat.
+2. Take the cryovial with the frozen cells and place in the styrofoam tub filled with ice to transport to the warm bath.
+3. Place the cryovial with the frozen cells into the 37° water bath for less than 1 minute, gently swirling until there is a small amount of ice left in the vial.
+4. Directly place the cryovial and balance in the centrifuge for 4 minutes to form a pellet.
+5. Remove and spray down with 70% ethanol before removing the supernatant and resuspending with 1mL of advanced DMEM to wash. If you see the pellet, do as written. If not, then try again to see pellet.
+6. Centrifuge again for ~4 minutes to form pellet again. Then remove the supernatant, put complete DMEM into the cryovial, resuspend, and place all of the liquid into a centrifuge ependorf tube so the total volume of the tube is 5mL (so place ~3-4mL in the tube before putting cells in).
+7. Mix by gently pipetting and releasing the 5mL of cells + DMEM.
+8. Fill the red-capped cell flask with ~10mL of complete DMEM. Pipette and add the suspended cells and growth media into the flask.
+9. Label and swirl on the table in gentle figure 8 motion at least 10 times.
+10. Leave in the incubator.
 
 ## Quality Control
 
@@ -47,4 +51,5 @@ When beginning a new cell line to grow for experiments, they need to be brought 
 | Date | Change | Author |
 | --- | --- | --- |
 | 2026-06-30 | Initial draft | Joseph Katz |
+| 2026-06-30 | Post-first try w Zhaoyi Wang | Joseph Katz |
 
