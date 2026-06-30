@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lab Methods
+title: Research Methods
 ---
 
-# Lab Methods
+# Research Methods
 
 A simple index for lab techniques, methods, recipes, and SOPs.
 
