@@ -1,0 +1,16 @@
+title: Lab Methods
+description: Dry lab and wet lab methods, recipes, and SOPs.
+
+collections:
+  methods:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "methods"
+    values:
+      layout: "method"
+
+markdown: kramdown

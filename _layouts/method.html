@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="method">
+  <p class="breadcrumb">
+    <a href="{{ "/" | relative_url }}">Home</a>
+    {% if page.category == "wet-lab" %}
+      / <a href="{{ "/wet-lab/" | relative_url }}">Wet Lab</a>
+    {% elsif page.category == "dry-lab" %}
+      / <a href="{{ "/dry-lab/" | relative_url }}">Dry Lab</a>
+    {% endif %}
+  </p>
+
+  {{ content }}
+</article>
+
