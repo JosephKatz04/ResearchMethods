@@ -10,20 +10,14 @@ Use this page for the Caco-2 media recipe used in your lab.
 
 ## Purpose
 
-Write the purpose of this recipe here.
-
-## Materials
-
-- Reagent name
-- Reagent name
-- Sterile bottle or container
+This is the recipe to be used when making more media for the CaCo2 cell line.
 
 ## Recipe
 
-| Component | Final concentration | Amount | Notes |
-| --- | --- | --- | --- |
-| Component name |  |  |  |
-| Component name |  |  |  |
+| Component | Amount | Notes |
+| --- | --- | --- |
+| Component name |  |  |
+| Component name |  |  |
 
 ## Procedure
 
