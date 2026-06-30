@@ -1,7 +1,7 @@
 ---
 title: Caco-2 Thawing Cells From Frozen
 category: wet-lab
-summary: Starter SOP page for thawing frozen Caco-2 cells.
+summary: How to thaw CaCo2 cells from frozen and start a culture in a flask.
 ---
 
 # Caco-2 Thawing Cells From Frozen

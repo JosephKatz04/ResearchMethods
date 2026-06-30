@@ -1,7 +1,7 @@
 ---
 title: Caco-2 Media Recipe
 category: wet-lab
-summary: Starter page for the Caco-2 cell culture media recipe.
+summary: The recipe for the DMEM CaCo2 cell culture growth medium.
 ---
 
 # Caco-2 Media Recipe
