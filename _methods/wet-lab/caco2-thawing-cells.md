@@ -10,7 +10,7 @@ Use this page for thawing CaCo2 cells from frozen in -80° freezer. From Wine La
 
 ## Purpose
 
-When beginning a new cell line to grow for experiments, they need to be brought "back to life" from frozen. They need to be thawed and stored in a sterile environemtn to grow and seed the cell flask.
+When beginning a new cell line to grow for experiments, they need to be brought "back to life" from frozen. They need to be thawed and stored in a sterile environment to grow and seed the cell flask.
 
 ## Safety
 
