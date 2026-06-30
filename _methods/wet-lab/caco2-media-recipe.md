@@ -16,22 +16,25 @@ This is the recipe to be used when making more media for the CaCo2 cell line.
 
 | Component | Amount | Notes |
 | --- | --- | --- |
-| Component name |  |  |
-| Component name |  |  |
+| DMEM | 500mL | In the Wine Lab 4° fridge |
+| 10% FBS | 50mL | In the Wine Lab -20° freezer |
+| 100x Antibiotics and Antimycotics | 5mL | In the Wine Lab -20° freezer |
+| 100x Non-Essential Amino Acids (NEAA) | 5mL | In the Tissue Culture room fridge |
+| 100x Glutamine | 5mL | In the Tissue Culture room fridge |
 
 ## Procedure
 
-1. Add your recipe steps here.
-2. Keep each step on its own line.
-3. Add storage and labeling notes below.
+1. Leave 10% FBS and Antibiotics/Antimycotics out in room temperature or in Tissue Culture fridge overnight to thaw first
+2. Put all components directly in the 500mL DMEM bottle. Label with Name and Date.
+3. Put in the Tissue Culture fridge
 
 ## Storage
 
-Write storage conditions, expiration date rules, and labeling details here.
+Kept in 4° Tissue Culture room
 
 ## Revision History
 
 | Date | Change | Author |
 | --- | --- | --- |
-| YYYY-MM-DD | Initial draft |  |
+| 2026-06-30 | Initial draft | Joseph Katz |
 
