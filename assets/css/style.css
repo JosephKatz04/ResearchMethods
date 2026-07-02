@@ -124,6 +124,14 @@ table {
   border-collapse: collapse;
 }
 
+.page img {
+  display: block;
+  width: 75%;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
+}
+
 th,
 td {
   padding: 8px;
@@ -160,5 +168,8 @@ th {
     width: min(100% - 32px, 860px);
     padding-top: 36px;
   }
-}
 
+  .page img {
+    width: 100%;
+  }
+}
