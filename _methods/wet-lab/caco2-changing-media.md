@@ -4,9 +4,11 @@ category: wet-lab
 summary: How to know when to change cell culture media and how to change
 ---
 
-# Caco-2 Thawing Cells From Frozen
+# When to Change
 
 Use this page for thawing CaCo2 cells from frozen in -80° freezer. From Wine Lab SOP and cell culture guidebook.
+
+![DMEM color change]({{ "/assets/in-page-images/DMEM_colour_change.png" | relative_url }})
 
 ## Purpose
 
